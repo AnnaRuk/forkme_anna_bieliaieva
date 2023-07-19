@@ -1,5 +1,6 @@
 # forkme
 
+- Anna Bieliaieva
 - Yuliia Tsaruk
 - Leonid Usatii
 - Konstantin Glazunov

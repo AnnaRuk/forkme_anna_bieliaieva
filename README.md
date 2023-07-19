@@ -1,5 +1,6 @@
 # forkme
 
+- Sidanova
 - Anna Bieliaieva
 - Yuliia Tsaruk
 - Leonid Usatii

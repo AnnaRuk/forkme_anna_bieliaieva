@@ -1,5 +1,6 @@
 # forkme
 
+- Leonid Usatii
 - Konstantin Glazunov
 - Oksana Patsii
 - Irina Frank

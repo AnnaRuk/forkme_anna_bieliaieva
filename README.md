@@ -1,5 +1,6 @@
 # forkme
 
+- Yuliia Tsaruk
 - Leonid Usatii
 - Konstantin Glazunov
 - Oksana Patsii
